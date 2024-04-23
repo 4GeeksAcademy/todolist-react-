@@ -11,6 +11,6 @@ const Todo = ({task, toggleComplete, deleteTodo}) => {
       </div>
     </div>
   )
-} //interactivity of the icons
+} //interactivity of FA icons
 
 export default Todo
